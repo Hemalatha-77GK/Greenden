@@ -20,7 +20,7 @@ Feel free to fork this project and submit pull requests for any improvements, fi
 1. Fork the repository
 2. Clone your fork to your local machine:
    ```bash
-   git clone https://github.com/your-username/greenden-webpage.git
+ 
    ```
 3. Create a new branch for your changes:
    ```bash
@@ -52,4 +52,4 @@ This README includes sections like:
 - **Technologies Used**: Lists HTML and Tailwind CSS.
 - **Contributing**: Provides steps for contributing to the project.
 
-Make sure to replace placeholders like `your-username` and `your-name` with your actual GitHub username and name!
+
